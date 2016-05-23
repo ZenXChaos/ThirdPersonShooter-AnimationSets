@@ -22,3 +22,5 @@ Animations:
 Be sure to rig as 'Humanoid'.
 
 PS: For every few likes this repo gets, I will add a new animation. (There are currently over 500 animations waiting to be released!)
+
+Follow me on Twitter: https://twitter.com/montraydavis
