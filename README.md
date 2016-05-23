@@ -13,4 +13,10 @@ Animations:
 
 >> AimShoot
 
+>> ReloadInit
+
+>> ReloadLoop
+
+>> ReloadEnd
+
 PS: For every few likes this repo gets, I will add a new animation. (There are currently over 500 animations waiting to be released!)
