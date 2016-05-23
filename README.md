@@ -5,6 +5,14 @@ Free third person shooter animations for *Unity3D Mecanim*
 
 Animations: 
 
+> Default (No Weapon)
+
+>> Idle
+
+>> Walk
+
+>> Run
+
 > Revolver
 
 >> AimIdle
