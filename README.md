@@ -13,17 +13,11 @@ Animations:
 
 >> AimShoot
 
->> SearchAmmo
-
 >> ReloadInit
 
 >> ReloadLoop
 
 >> ReloadEnd
-
->> CrouchWalk
-
->> CrouchIdle
 
 Be sure to rig as 'Humanoid'.
 
