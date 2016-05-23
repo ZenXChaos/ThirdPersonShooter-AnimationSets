@@ -13,6 +13,18 @@ Animations:
 
 >> Run
 
+>> Sprint
+
+>> DieForward
+
+>> DieShootIdle
+
+>> DieShootRun
+
+>> HitBackDie
+
+>> HitFrontDie
+
 > Revolver
 
 >> AimIdle
