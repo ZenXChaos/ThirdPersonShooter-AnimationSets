@@ -9,9 +9,19 @@ Animations:
 
 >> Idle
 
+>> IdleToRun
+
 >> Walk
 
+>> WalkToIdle
+
+>> IdleToWalk
+
 >> Run
+
+>> RunToIdle
+
+>> IdleToRun
 
 >> Sprint
 
@@ -33,6 +43,10 @@ Animations:
 
 >> AimShoot
 
+>> AimWalkTurnAround
+
+>> AimWalkBackTurnAround
+
 >> SearchAmmo
 
 >> ReloadInit
@@ -44,6 +58,12 @@ Animations:
 >> CrouchWalk
 
 >> CrouchIdle
+
+>> CrouchReloadInit
+
+>> CrouchReloadLoop
+
+>> CrouchReloadEnd
 
 Be sure to rig as 'Humanoid'.
 
