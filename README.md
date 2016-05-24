@@ -1,3 +1,7 @@
+[Follow me on Twitter](https://twitter.com/montraydavis)
+
+[Like the official Facebook Dev page](https://facebook.com/ubersnipdev)
+
 # ThirdPersonShooter-AnimationSets
 Free third person shooter animations for *Unity3D Mecanim*
 
@@ -7,63 +11,63 @@ Animations:
 
 > Default (No Weapon)
 
->> Idle
+* Idle
 
->> IdleToRun
+* IdleToRun
 
->> Walk
+* Walk
 
->> WalkToIdle
+* WalkToIdle
 
->> IdleToWalk
+* IdleToWalk
 
->> Run
+* Run
 
->> RunToIdle
+* RunToIdle
 
->> IdleToRun
+* IdleToRun
 
->> Sprint
+* Sprint
 
->> DieForward
+* DieForward
 
->> DieShootIdle
+* DieShootIdle
 
->> DieShootRun
+* DieShootRun
 
->> HitBackDie
+* HitBackDie
 
->> HitFrontDie
+* HitFrontDie
 
 > Revolver
 
->> AimIdle
+* AimIdle
 
->> AimWalk
+* AimWalk
 
->> AimShoot
+* AimShoot
 
->> AimWalkTurnAround
+* AimWalkTurnAround
 
->> AimWalkBackTurnAround
+* AimWalkBackTurnAround
 
->> SearchAmmo
+* SearchAmmo
 
->> ReloadInit
+* ReloadInit
 
->> ReloadLoop
+* ReloadLoop
 
->> ReloadEnd
+* ReloadEnd
 
->> CrouchWalk
+* CrouchWalk
 
->> CrouchIdle
+* CrouchIdle
 
->> CrouchReloadInit
+* CrouchReloadInit
 
->> CrouchReloadLoop
+* CrouchReloadLoop
 
->> CrouchReloadEnd
+* CrouchReloadEnd
 
 Be sure to rig as 'Humanoid'.
 
