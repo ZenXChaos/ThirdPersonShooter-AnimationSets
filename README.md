@@ -2,6 +2,8 @@
 
 [Like the official Facebook Dev page](https://facebook.com/ubersnipdev)
 
+[UberSnip-GameDev Blog](http://gamedev.ubersnip.com/index.php?title=ThirdPersonAnimSet_01)
+
 # ThirdPersonShooter-AnimationSets
 Free third person shooter animations for *Unity3D Mecanim*
 
