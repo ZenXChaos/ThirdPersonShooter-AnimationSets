@@ -13,19 +13,21 @@ Animations:
 
 >> Idle
 
->> IdleToRun
-
 >> Walk
-
->> WalkToIdle
 
 >> IdleToWalk
 
+>> WalkToIdle
+
+>> Falling
+
+>> JumpFall
+
 >> Run
 
->> RunToIdle
-
 >> IdleToRun
+
+>> RunToIdle
 
 >> Sprint
 
@@ -68,6 +70,24 @@ Animations:
 >> CrouchReloadLoop
 
 >> CrouchReloadEnd
+
+>> IdleL_CC (aim center)
+
+>> IdleL_CD (aim center-down)
+
+>> IdleL_CU (aim center-up)
+
+>> IdleL_LC (aim left-center)
+
+>> IdleL_LD (aim left-down)
+
+>> IdleL_LU (aim left-up)
+
+>> IdleL_RC (aim right-center)
+
+>> IdleL_RD (aim right-down)
+
+>> IdleL_RU (aim right-up)
 
 Be sure to rig as 'Humanoid'.
 
