@@ -97,16 +97,12 @@ Animations:
 
 >> Walk
 
->> ReloadInit
-
->> ReloadLoop
-
->> ReloadEnd
-
 Be sure to rig as 'Humanoid'.
 
 Please note that unfortunately, while all animations are HQ animations, they are not all compatible with mecanim out of the box.
 You will have to do this part on your own, sorry.
+
+However, I have included a Unity3D package that has taken care of the majority of the work for you (:
 
 ---
 
