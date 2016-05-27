@@ -45,9 +45,9 @@ Animations:
 
 > Revolver
 
->> AimIdle
+>> Idle
 
->> AimWalk
+>> Walk
 
 >> AimShoot
 
@@ -91,6 +91,18 @@ Animations:
 
 >> IdleL_RU (aim right-up)
 
+> Shotgun
+
+>> Idle
+
+>> Walk
+
+>> ReloadInit
+
+>> ReloadLoop
+
+>> ReloadEnd
+
 Be sure to rig as 'Humanoid'.
 
 Please note that unfortunately, while all animations are HQ animations, they are not all compatible with mecanim out of the box.
@@ -98,7 +110,7 @@ You will have to do this part on your own, sorry.
 
 ---
 
-Licensing: 
+Licensing:
 
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
